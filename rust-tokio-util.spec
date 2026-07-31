@@ -6,8 +6,8 @@
 %global crate tokio-util
 
 Name:           rust-%{crate}
-Version:        0.2.0
-Release:        2%{?dist}
+Version:        0.7.19
+Release:        1%{?dist}
 Summary:        Additional utilities for working with Tokio
 
 # Upstream license specification: MIT
